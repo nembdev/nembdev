@@ -1,8 +1,8 @@
 - Hello, I’m @nembdev
-- I’m interested in tinyml, ai, crypto, gamedev, data, and the "cloud"
-- I’m currently learning python, gdscript/godot, and data analysis
-- I’m looking to collaborate on opensource projects
-- I'm currently working on a few games, and a nft generator
+- I’m interested in tinyml, ai, gamedev, data, and the "cloud"
+- I’m currently improving my Python 🐍, Gdscript/Godot 🎮, and Terraform 🌎 skills.
+- I’m looking to collaborate on Open Source projects
+- I'm currently working on a few games, and various Cloud ☁️ projects.
 - How to reach me: open an issue on this repo
 
 <!---
