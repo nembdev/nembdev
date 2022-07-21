@@ -4,7 +4,7 @@
 - I’m looking to collaborate on Open Source projects
 - I'm currently working on a few games, and various Cloud ☁️ projects.
 - How to reach me: open an issue on this repo
-- [Latest posts and updates](nembdev.github.io)
+- [Latest posts and updates](https://nembdev.github.io)
 
 <!---
 nembdev/nembdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
